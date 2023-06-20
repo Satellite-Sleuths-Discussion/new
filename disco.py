@@ -4,3 +4,4 @@ import numpy as np
 # Heyyyy
 #hiii
 # Stuti can commit now ;)
+#cauz we encouraged stuti enough and asked him(git) to allow her to commit. 
